@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## About Me
+## About
 
 I am Harrison Glenn, a student at the University of Sydney (USYD). I am passionate about artificial intelligence, software development, and the art of testing software. On this website, you will find information about my projects, blog posts, and more.
 
