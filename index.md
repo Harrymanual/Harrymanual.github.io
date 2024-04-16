@@ -29,7 +29,7 @@ Check out my latest blog posts:
   {% endfor %}
 </ul>
 
-<p><a href="{{ "/feed.xml" | relative_url }}">Subscribe via RSS</a></p>
+<p><a href="{{ site.feed.path | default: '/feed.xml' | relative_url }}">Subscribe via RSS</a></p>
 
 ## Contact Me
 

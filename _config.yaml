@@ -10,3 +10,7 @@ theme: minima
 
 plugins:
   - jekyll-feed
+
+feed:
+  path: /feed.xml
+  posts_limit: 10
