@@ -33,4 +33,4 @@ Check out my latest blog posts:
 
 ## Contact Me
 
-You can reach me via email at [harrisonabglenn@gmail.com](mailto:harrisonabglenn@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+You can reach me via email at [harrisonabglenn@gmail.com](mailto:harrisonabglenn@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harrison-glenn-556378244/).
