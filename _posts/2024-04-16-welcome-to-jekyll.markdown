@@ -15,7 +15,7 @@ At the core of my language are the following key components:
 GameDefinition: This class serves as the foundation for building the game world. It allows you to create rooms, items, and establish connections between them.
 {% highlight python %}
 class GameDefinition:
-  def init(self):
+  def __init__self):
     self.rooms = {}
     self.start_room = None
 
@@ -37,7 +37,7 @@ class GameDefinition:
 GameInterpreter: This class is responsible for interpreting the game definition and providing an interactive interface for players to explore the world.
 {% highlight python %}
 class GameInterpreter:
-  def init(self):
+  def __init__(self):
     self.game = None
     self.current_room = None
 
@@ -69,12 +69,12 @@ class GameInterpreter:
 Item and Room: These classes represent the basic building blocks of the game world. Item defines the properties of objects that can be placed within rooms, while Room defines the characteristics of each location in the world.
 {% highlight python %}
 class Item:
-  def init(self, name, description):
+  def __init__(self, name, description):
     self.name = name
     self.description = description
 
 class Room:
-  def init(self, name, description):
+  def __init__(self, name, description):
     self.name = name
     self.description = description
     self.items = []
