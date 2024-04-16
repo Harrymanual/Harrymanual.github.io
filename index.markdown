@@ -1,9 +1,20 @@
 ---
 layout: home
-title: About Me
+title: Home
 ---
 
-I am Harrison Glenn, a student at the University of Sydney (USYD). I am passionate about artificial intelligence, software development, and the art of testing software. On this website, you will find information about my projects, blog posts, and more.
+I am Harrison Glenn, a student at the University of Sydney (USYD). I am passionate about artificial intelligence, software development, and the science of testing software. On this website, you will find information about my projects, blog posts, and more.
+
+## Academic Achievements (Relevant Subjects)
+
+### High Distinction
+Agile Software Development Practices
+
+### Distinction
+Software Construction and Design 1
+Human-Computer Interaction
+Object-Oriented Programming
+Foundations of Data Science
 
 ## Projects
 
