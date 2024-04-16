@@ -1,5 +1,6 @@
 ---
-layout: post title: "Building a World with Code: Introducing My Language for Interactive Storytelling" 
+layout: post 
+title: "Building a World with Code: Introducing My Language for Interactive Storytelling" 
 date: 2024-04-16 20:11:02 +1000 
 categories: programming worldbuilding
 ---
