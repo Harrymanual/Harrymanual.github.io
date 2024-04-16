@@ -9,3 +9,8 @@ url: "https://harrymanual.github.io"
 
 markdown: kramdown
 theme: minima
+
+feed:
+  path: /feed.xml
+  limit: 20
+  excerpt_only: true
