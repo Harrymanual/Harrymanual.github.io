@@ -20,9 +20,9 @@ I'm Harrison Glenn, a dedicated student at the University of Sydney with a passi
 
 Here are some of my recent projects:
 
-- Project 1: A brief description of Project 1.
-- Project 2: A brief description of Project 2.
-- Project 3: A brief description of Project 3.
+- [Formula 1 Website]: A Formula 1 website built with React, showcasing my skills in React development, application deployment, and JavaScript. This project allowed me to learn and apply modern web development techniques.
+- [Weight Tracker]: A weight tracking app developed with React Native, leveraging ChatGPT as my sole resource for learning the framework. This project demonstrated the capabilities of ChatGPT as a learning tool and my ability to create mobile applications using React Native.
+- [Game Language]: A work-in-progress project aimed at creating a game language framework in Python. This framework simplifies the process of creating an explorative command-line game, allowing users to easily build and customize their own game worlds.
 
 
 ## Contact Me
