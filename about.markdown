@@ -18,12 +18,6 @@ I have gained proficiency in several programming languages and technologies, wit
 
 I am constantly seeking opportunities to expand my skill set and stay up-to-date with the latest industry trends and best practices.
 
-## Projects and Contributions
-
-In addition to my academic pursuits, I have worked on several projects that showcase my abilities and passion for technology. Some of my notable projects include:
-- Project 1: [Provide a detailed description of the project, highlighting the problem you solved, the technologies used, and the outcomes achieved.]
-- Project 2: [Give an in-depth overview of another significant project, explaining your role, the challenges faced, and the impact of the project.]
-
 ## Personal Interests and Motivation
 
 Beyond my love for technology, I find inspiration and joy in various pursuits. When I'm not immersed in coding or studying, you can often find me fueling my adventures with Red Bull, cheering on my favorite Formula 1 teams (especially Red Bull), scaling the walls at the climbing gym, or strategizing in competitive Counter-Strike matches.
