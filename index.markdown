@@ -24,6 +24,8 @@ Here are some of my recent projects:
 - [Weight Tracker](https://github.com/Harrymanual/Weight-Tracker): A weight tracking app developed with React Native, leveraging ChatGPT as my sole resource for learning the framework. This project demonstrated the capabilities of ChatGPT as a learning tool and my ability to create mobile applications using React Native.
 - [Game Language](https://github.com/Harrymanual/gamelanguage): A work-in-progress project aimed at creating a game language framework in Python. This framework simplifies the process of creating an explorative command-line game, allowing users to easily build and customize their own game worlds.
 
+## Awards
+- Nominated for Customer Whisperer: Award for the staff member whose customer service skills are above and beyond. (Feros Group, Highfields Nominee)
 
 ## Contact Me
 
