@@ -25,7 +25,7 @@ Here are some of my recent projects:
 - [Game Language](https://github.com/Harrymanual/gamelanguage): A work-in-progress project aimed at creating a game language framework in Python. This framework simplifies the process of creating an explorative command-line game, allowing users to easily build and customize their own game worlds.
 
 ## Awards
-- Nominated for Customer Whisperer: Award for the staff member whose customer service skills are above and beyond. (Feros Group, Highfields Nominee)
+- Customer Whisperer: Award for the staff member whose customer service skills are above and beyond. (Feros Group finalist for Highfields)
 
 ## Contact Me
 
