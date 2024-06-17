@@ -6,15 +6,16 @@ permalink: /about/
 
 ## Technical Skills and Expertise
 
-I have gained proficiency in several programming languages and technologies, with a particular affinity for Java. My technical skills include:
-- Java
+I have gained proficiency in several programming languages and technologies, with a particular affinity for Python. My technical skills include in order of strength:
 - Python 
+- Java
+- Git
+- Agile software development methodologies
 - SQL
 - R
 - React
-- Git
 - Introduction to Google Cloud courses
-- Agile software development methodologies
+
 
 I am constantly seeking opportunities to expand my skill set and stay up-to-date with the latest industry trends and best practices.
 
