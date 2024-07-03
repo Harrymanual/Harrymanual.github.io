@@ -12,6 +12,8 @@ I'm Harrison Glenn, a dedicated student at the University of Sydney with a passi
 
 ### Distinction
 - Software Construction and Design 1
+- Software Construction and Design 2
+- Computational Modelling
 - Human-Computer Interaction
 - Object-Oriented Programming
 - Foundations of Data Science
