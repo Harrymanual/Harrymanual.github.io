@@ -10,9 +10,9 @@ I'm Harrison Glenn, a dedicated student at the University of Sydney with a passi
 Here are some of my recent projects:
 
 - [Formula 1 Website](https://github.com/Harrymanual/Formula_1_Website_React): A Formula 1 website built with React, showcasing my skills in React development, application deployment, and JavaScript. This project allowed me to learn and apply modern web development techniques. [Link To Website](https://harry-formula-1.onrender.com/)
+- [Youtube Channel](https://www.youtube.com/@harryglenn6874/videos): Starting to complete leetcode challenges and I am documenting my progress on there as I find it enjoyable and satisfying to see my progress over small sessions.
 - [Weight Tracker](https://github.com/Harrymanual/Weight-Tracker): A weight tracking app developed with React Native, leveraging ChatGPT as my sole resource for learning the framework. This project demonstrated the capabilities of ChatGPT as a learning tool and my ability to create mobile applications using React Native.
 - [Game Language](https://github.com/Harrymanual/gamelanguage): A work-in-progress project aimed at creating a game language framework in Python. This framework simplifies the process of creating an explorative command-line game, allowing users to easily build and customize their own game worlds.
-- [Youtube Channel](https://www.youtube.com/@harryglenn6874/videos): Starting to complete leetcode challenges and I am documenting my progress on there as I find it enjoyable and satisfying to see my progress over small sessions.
 
 ## Academic Achievements (Relevant Subjects)
 
