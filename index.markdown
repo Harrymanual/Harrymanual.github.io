@@ -5,6 +5,10 @@ title: Home
 
 I'm Harrison Glenn, a dedicated student at the University of Sydney with a passion for artificial intelligence particularly specifically MLP neural networks currently, software development, and testing software. When I'm not immersed in my studies, you can find me fueling my adventures with Red Bull, cheering on my favorite Formula 1 teams (red bull), scaling the walls at the climbing gym, or strategising in competitive Rocket League matches. As a Java and Python enthusiast , I bring a diverse set of interests and experiences to my work in technology.
 
+Beyond my academic pursuits, I've cultivated valuable skills through my professional experiences. As a Crew Trainer at McDonald's, I honed my leadership and training abilities, ensuring new recruits were well-versed in operational procedures. My time at Feros Group as a Bar Staff and Senior Front of House member further developed my customer service, communication, and problem-solving skills in a fast-paced environment. These experiences instilled in me a strong work ethic, adaptability, and the ability to thrive under pressure – qualities I'm eager to bring to a challenging and rewarding role in the IT industry.
+
+My combined academic background and practical experience have equipped me with a well-rounded skillset in software development, communication and customer service. I'm eager to contribute my passion, dedication, and diverse experiences to a company where I can grow and make a meaningful impact.
+
 ## Projects
 
 Here are some of my recent projects:
